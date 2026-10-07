@@ -20,6 +20,25 @@ Un proyecto de ciencia de datos bien elaborado no consiste solo en tener una gra
 > [!NOTE]
 > Estas características las construimo a partir de lo visto en clase y de la experiencia de cientificos como John Foreman (Presentación realizada por compañera de nuestro grupo)
 
+**Pasos generales**
+```text
+Problema -> Pregunta -> Recolección de datos -> Limpieza -> Análisis -> Resultados -> Comunicación
+```
+> [!NOTE]
+> Estos pasos estan fuertemente relacionados con CRISP-DM y DIKW
+---
+### Naturaleza de nuestro proyecto
+Este repositorio busca explicar las caracteristicas escenciales que se deben tener en cuenta para realizar un buen proyecto.
+>[!WARNING]
+> No son todas las caracteristicas, pero si una buena base para definir un buen proyecto
+
+**Recomendamos esta lista de revision**
+
+- [ ] ¿Está claro el problema y la pregunta?
+- [ ] ¿Tenemos datos limpios?
+- [ ] ¿Podemos explicar los resultados?
+- [ ] ¿El resultado es util y eficiente?
+
 <details>
   <summary>Ver referencias</summary>
 
